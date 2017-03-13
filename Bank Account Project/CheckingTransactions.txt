@@ -1,0 +1,24 @@
+Checking 3/12/2017 8:21:54 PM 22705+1000
+Checking 3/12/2017 11:07:38 PM 22705+100
+Checking 3/12/2017 11:07:38 PM 22705+1250.12
+Checking 3/12/2017 11:07:38 PM 22705+100
+Checking 3/12/2017 11:07:38 PM 22705+1250.12
+Checking 3/12/2017 11:07:38 PM 22705+67.26
+Checking withdrawal -120.02Time: 3/12/2017 11:18:17 PMAccount Number 22705
+Checking withdrawal -200Time: 3/12/2017 11:18:17 PMAccount Number 22705
+Checking withdrawal -800.89Time: 3/12/2017 11:18:17 PMAccount Number 22705
+Checking deposit +500Time: 3/12/2017 11:37:47 PMAccount Number 22705
+Checking deposit +500Time: 3/12/2017 11:37:47 PMAccount Number 22705
+Checking withdrawal Account Number: 22705-200.45Balance: 5299.55Time: 3/12/2017 11:37:47 PM
+Checking withdrawal Account Number: 22705-5600Balance: -600Time: 3/13/2017 12:10:07 AM
+Checking withdrawal Account Number: 22705-3000Balance: 2000Time: 3/13/2017 12:14:33 AM
+Checking withdrawal Account Number: 22705-3000Balance: 2000Time: 3/13/2017 12:14:33 AM
+Checking withdrawal Account Number: 22705-2000Balance: 0Time: 3/13/2017 12:14:33 AM
+Checking withdrawal Account Number: 22705-3000Balance: 2000Time: 3/13/2017 12:14:33 AM
+Checking withdrawal Account Number: 22705-2000Balance: 0Time: 3/13/2017 12:14:33 AM
+Checking withdrawal Account Number: 22705-5Balance: -5Time: 3/13/2017 12:14:33 AM
+Checking withdrawal Account Number: 22705-5100Balance: $-100Time: 3/13/2017 1:21:59 PM
+Client Name: Dorrian Horsey Checking withdrawal  Account Number: 22705 - 6000 Current Balance: $-1000Time: 3/13/2017 2:21:11 PM
+Client Name: Dorrian Horsey Checking withdrawal  Account Number: 22705 - 6000 Current Balance: $-1000Time: 3/13/2017 2:21:11 PM
+Client Name: Dorrian Horsey Checking deposit  Account Number: 22705 + 500 Current Balance: $-500Time: 3/13/2017 2:21:11 PM
+Client Name: Dorrian Horsey Checking deposit  Account Number: 22705 + 500 Current Balance: $5500Time: 3/13/2017 2:25:21 PM

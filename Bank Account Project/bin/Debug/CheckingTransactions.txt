@@ -1,0 +1,4 @@
+Client Name: D d Checking deposit  Account Number: 22705 + 200 Current Balance: $5200Time: 3/13/2017 2:56:10 PM
+Client Name: Dorrian Horsey Checking withdrawal  Account Number: 22705 - 500 Current Balance: $4500Time: 3/13/2017 3:08:06 PM
+Client Name: Dorrian Horsey Checking withdrawal  Account Number: 22705 - 500 Current Balance: $4500Time: 3/13/2017 5:00:01 PM
+Client Name: Dorrian Horsey Checking withdrawal  Account Number: 22705 - 500 Current Balance: $4500Time: 3/13/2017 5:07:32 PM

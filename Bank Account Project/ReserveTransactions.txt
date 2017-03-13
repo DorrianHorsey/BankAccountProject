@@ -1,0 +1,17 @@
+Reserve deposit Account Number: 90413+80.90Current Balance: 1580.90Time: 3/12/2017 11:37:47 PM
+Reserve deposit Account Number: 90413+80.90Current Balance: 1580.90Time: 3/12/2017 11:37:47 PM
+Reserve withdrawal Account Number: 90413-800Current Balance: 780.90Time: 3/12/2017 11:37:47 PM
+Reserve deposit Account Number: 90413+80.90Current Balance: 1580.90Time: 3/12/2017 11:37:47 PM
+Reserve withdrawal Account Number: 90413-800Current Balance: 780.90Time: 3/12/2017 11:37:47 PM
+Reserve deposit Account Number: 90413+3400.11Current Balance: 4181.01Time: 3/12/2017 11:37:47 PM
+Reserve deposit  Account Number: 90413 + 1200.08 Current Balance: 2700.08Time: 3/12/2017 11:43:10 PM
+Reserve deposit  Account Number: 90413 + 1200.08 Current Balance: 2700.08Time: 3/12/2017 11:43:10 PM
+Reserve deposit  Account Number: 90413 + 12.50 Current Balance: 2712.58Time: 3/12/2017 11:43:10 PM
+Reserve deposit  Account Number: 90413 + 1200.08 Current Balance: 2700.08Time: 3/12/2017 11:43:10 PM
+Reserve deposit  Account Number: 90413 + 12.50 Current Balance: 2712.58Time: 3/12/2017 11:43:10 PM
+Reserve withdrawal  Account Number: 90413 -500 Current Balance: 2212.58Time: 3/12/2017 11:43:10 PM
+Reserve deposit  Account Number: 90413 + 1200.08 Current Balance: 2700.08Time: 3/12/2017 11:43:10 PM
+Reserve deposit  Account Number: 90413 + 12.50 Current Balance: 2712.58Time: 3/12/2017 11:43:10 PM
+Reserve withdrawal  Account Number: 90413 -500 Current Balance: 2212.58Time: 3/12/2017 11:43:10 PM
+Reserve withdrawal  Account Number: 90413 -1000 Current Balance: 1212.58Time: 3/12/2017 11:43:10 PM
+Client NameDorrian HorseyReserve deposit  Account Number: 90413 + 100 Current Balance: $1600Time: 3/13/2017 1:58:46 PM
